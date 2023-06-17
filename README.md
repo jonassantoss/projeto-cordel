@@ -1,6 +1,6 @@
 <h1>projeto-cordel</h1>
 
-This project is a website about cordel that uses CSS resources to improve the user experience. Among the features are parallax effect, responsive texts, and control of background images.
+This project is a website about cordel that uses CSS resources to improve the user experience. Among the features are parallax effect, responsive texts, and control of background images. To acces the project, <a href="https://projeto-cordel-gqsybt93x-expresscoffe.vercel.app">click here</a>
 
 <h2>Resources</h2>
 
